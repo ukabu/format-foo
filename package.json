@@ -1,0 +1,23 @@
+{
+  "name": "format-foo",
+  "version": "0.9.0",
+  "description": "Another String format function! You gotta be kidding me.",
+  "main": "format-foo.js",
+  "scripts": {
+    "test": "vows --spec ./test.js"
+  },
+  "devDependencies": {
+    "vows": ">= 0.5.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ukabu/format-foo.git"
+  },
+  "keywords": [
+    "String",
+    "Format",
+    "sprintf"
+  ],
+  "author": "Ukabu",
+  "license": "BSD"
+}
