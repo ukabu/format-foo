@@ -20,11 +20,11 @@ Usage
 
 Format functions
 ----------------
-Examples
 
+Examples
 --------
 
-Here are some examples taking from the tests:
+Here are some examples taken from the tests:
 
     Hello my name is %s
       with Foo should format to 'Hello my name is Foo'
